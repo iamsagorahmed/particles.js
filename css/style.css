@@ -1,0 +1,15 @@
+#particles{
+  position: relative;
+  height: 700px;
+  text-align:center;
+  width: 100%;
+  background-color: cyan;
+}
+h2,a{
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  text-decoration: none;
+  text-transform: capitalize;
+}
